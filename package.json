@@ -1,6 +1,6 @@
 {
   "name": "my-react-app",
-  "homepage": "https://shyam-prodapt.github.io/Java_training",
+  "homepage": "https://shyam-prodapt.github.io/React-App/",
 
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,6 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
      "deploy": "gh-pages -d build",
-
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
